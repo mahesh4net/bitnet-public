@@ -1,5 +1,5 @@
 # 🚀 BitNet – Smart Ad-Based Link Shortener
-## all the actual code is private !
+### All the actual code is private ! (email me on mahesh4netbusiness@gmail.com if need full source code)
 > 📦 An advanced, production-ready Node.js + Express app to create, share, and monetize short URLs with integrated ad pages and real-time analytics.
 
 ![BitNet Screenshot](./bitnet-dashboard.png) <!-- Optional: Add a real screenshot -->
